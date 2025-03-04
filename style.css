@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+p {
+    color: white;
+}
+
+.blanco {
+    color: white;
+}
+
+.lista {
+    color: white;
+    background-color: rgb(166, 36, 181);
+}
